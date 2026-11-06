@@ -1,0 +1,17 @@
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# 构建产物
+target/
+build/
+*.jar
+
+# 日志
+logs/
+*.log
+
+# 系统文件
+.DS_Store
+Thumbs.db

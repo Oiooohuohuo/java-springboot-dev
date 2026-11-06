@@ -1,0 +1,4 @@
+interface:
+  display_name: "Java SpringBoot 骨架生成"
+  short_description: "Java 21 + SpringBoot 3.4 + MP 3.5.9 + Flyway 项目骨架生成、分层落地与实战写法"
+  default_prompt: "使用 $java-springboot-dev 生成一个 Java 21 + SpringBoot 3.4 + MyBatis-Plus + Flyway 的项目骨架,并按 DTO/VO/Entity/Controller/Service/Mapper 分层落地。"
